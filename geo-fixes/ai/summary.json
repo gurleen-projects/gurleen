@@ -1,6 +1,28 @@
 {
-  "name": "iapptechnologies.com",
-  "description": "Website iapptechnologies.com",
+  "name": "iApp Technologies LLP",
+  "description": "iApp Technologies LLP is a software development company founded in 2012, specialising in mobile app development, web platforms, and AI-powered digital products for businesses worldwide.",
   "url": "https://iapptechnologies.com",
-  "lastModified": "{{ISO_DATE}}"
+  "foundingDate": "2012",
+  "entity": "iApp Technologies LLP",
+  "services": [
+    "Mobile App Development",
+    "Web Application Development",
+    "AI-Powered Product Development",
+    "Custom Software Solutions",
+    "UI/UX Design"
+  ],
+  "caseStudies": [
+    "CaseRoom",
+    "Poster Maker",
+    "IPTV Platform",
+    "Taxi Booking App",
+    "AI Ad Management Tool"
+  ],
+  "social": {
+    "linkedin": "https://www.linkedin.com/company/iapptechnologies",
+    "facebook": "https://www.facebook.com/iapptechnologies",
+    "instagram": "https://www.instagram.com/iapptechnologies"
+  },
+  "contact": "https://iapptechnologies.com/contact",
+  "lastModified": "2026-04-29"
 }

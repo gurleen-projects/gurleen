@@ -1,9 +1,13 @@
 {
   "@context": "https://schema.org",
   "@type": "WebSite",
-  "name": "iapptechnologies.com",
+  "name": "iApp Technologies LLP",
   "url": "https://iapptechnologies.com",
-  "description": "Website iapptechnologies.com",
+  "description": "iApp Technologies LLP — Mobile app development, web platforms, and AI-powered digital products since 2012.",
+  "publisher": {
+    "@type": "Organization",
+    "name": "iApp Technologies LLP"
+  },
   "potentialAction": {
     "@type": "SearchAction",
     "target": {

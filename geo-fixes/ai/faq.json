@@ -1,12 +1,24 @@
 {
   "faqs": [
     {
-      "question": "What is iapptechnologies.com?",
-      "answer": "A website about iapptechnologies.com."
+      "question": "What is iApp Technologies LLP?",
+      "answer": "iApp Technologies LLP is a software development company founded in 2012, specialising in mobile app development, web application development, and AI-powered digital products for startups and enterprises worldwide."
     },
     {
-      "question": "How can I use iapptechnologies.com?",
-      "answer": "Visit https://iapptechnologies.com to get started."
+      "question": "What services does iApp Technologies offer?",
+      "answer": "iApp Technologies offers mobile app development (iOS & Android), web application development, AI-powered product development, custom software solutions, and UI/UX design."
+    },
+    {
+      "question": "When was iApp Technologies founded?",
+      "answer": "iApp Technologies LLP was founded in 2012 and has been delivering technology solutions for over a decade."
+    },
+    {
+      "question": "What products has iApp Technologies built?",
+      "answer": "iApp Technologies has built products including CaseRoom, Poster Maker, an IPTV platform, a Taxi Booking App, and an AI Ad Management Tool."
+    },
+    {
+      "question": "How can I contact iApp Technologies?",
+      "answer": "Visit https://iapptechnologies.com/contact or connect via LinkedIn, Facebook, and Instagram."
     }
   ]
 }

@@ -4,18 +4,42 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Cos'è iapptechnologies.com?",
+      "name": "What is iApp Technologies LLP?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Descrizione di iapptechnologies.com."
+        "text": "iApp Technologies LLP is a software development company founded in 2012, specialising in mobile app development, web application development, and AI-powered digital products for startups and enterprises worldwide."
       }
     },
     {
       "@type": "Question",
-      "name": "Come contattare iapptechnologies.com?",
+      "name": "What services does iApp Technologies offer?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Visita la pagina contatti su https://iapptechnologies.com/contatti"
+        "text": "iApp Technologies offers mobile app development (iOS & Android), web application development, AI-powered product development, custom software solutions, and UI/UX design."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When was iApp Technologies founded?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "iApp Technologies LLP was founded in 2012 and has been delivering technology solutions for over a decade."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are some of iApp Technologies' case studies?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "iApp Technologies has built products including CaseRoom, Poster Maker, an IPTV platform, a Taxi Booking App, and an AI Ad Management Tool."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I contact iApp Technologies?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can contact iApp Technologies LLP through the contact page at https://iapptechnologies.com/contact or connect via LinkedIn, Facebook, and Instagram."
       }
     }
   ]

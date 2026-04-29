@@ -1,16 +1,22 @@
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "iapptechnologies.com",
+  "name": "iApp Technologies LLP",
   "url": "https://iapptechnologies.com",
-  "description": "",
+  "description": "iApp Technologies LLP is a software development company founded in 2012, specialising in mobile app development, web platforms, and AI-powered digital products for businesses worldwide.",
+  "foundingDate": "2012",
   "logo": {
     "@type": "ImageObject",
     "url": "https://iapptechnologies.com/logo.png"
   },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "url": "https://iapptechnologies.com/contact"
+  },
   "sameAs": [
-    "https://www.linkedin.com/company/YOUR_COMPANY",
-    "https://github.com/YOUR_ORG",
-    "https://twitter.com/YOUR_HANDLE"
+    "https://www.linkedin.com/company/iapptechnologies",
+    "https://www.facebook.com/iapptechnologies",
+    "https://www.instagram.com/iapptechnologies"
   ]
 }

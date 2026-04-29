@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "iapptechnologies.com",
+  "url": "https://iapptechnologies.com",
+  "description": "",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "https://iapptechnologies.com/logo.png"
+  },
+  "sameAs": [
+    "https://www.linkedin.com/company/YOUR_COMPANY",
+    "https://github.com/YOUR_ORG",
+    "https://twitter.com/YOUR_HANDLE"
+  ]
+}

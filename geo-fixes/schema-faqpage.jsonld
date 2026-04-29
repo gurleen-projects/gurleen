@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Cos'è iapptechnologies.com?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Descrizione di iapptechnologies.com."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Come contattare iapptechnologies.com?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Visita la pagina contatti su https://iapptechnologies.com/contatti"
+      }
+    }
+  ]
+}
